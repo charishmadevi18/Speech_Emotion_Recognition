@@ -1,4 +1,4 @@
-Speech Emotion Recognition
+Speech Emotion Recognition  (A Deep Learning Project Work)
 
 This project is a Speech Emotion Recognition system that recognizes emotions (happy, sad, angry, etc.) from Telugu audio files using a machine learning model. The project processes audio files, extracts features, trains a model, and saves the trained model for future use.
 
