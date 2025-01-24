@@ -28,4 +28,20 @@ Feature Extraction: The script uses librosa to load audio files and extract MFCC
 
 Model Training: A neural network is trained on the extracted features using TensorFlow/Keras.
 
-Emotion Classification: The trained model 
+Emotion Classification: The trained model classifies emotions based on the features of new audio files.
+
+Files
+
+app.py: Contains the code for loading and processing audio files, extracting features (MFCC), training the model, and saving the trained model.
+
+speech_emotion_recognition_model.h5: Pre-trained model file used for emotion recognition.
+
+templates/: Contains HTML and CSS files for the web interface (if applicable).
+
+Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+License
+
+This project is licensed under the MIT License.
